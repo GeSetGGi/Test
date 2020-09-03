@@ -6,4 +6,3 @@ commit 2 will be revert
 
 commit 3
 
-
